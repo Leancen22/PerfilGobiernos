@@ -1,0 +1,50 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a65cd715-89ce-4c28-a66d-961801b4e81b
+  bundle: municipios
+  default_langcode: es
+  depends:
+    c24c6e51-c6e5-4b25-8dc1-6d86f56840a7: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Municipio 6'
+  created:
+    -
+      value: 1666967910
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: es
+      pathauto: 0
+  field_enlace_municipios:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  field_image:
+    -
+      entity: c24c6e51-c6e5-4b25-8dc1-6d86f56840a7
+      alt: '1'
+      title: ''
+      width: 85
+      height: 85

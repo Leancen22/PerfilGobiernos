@@ -1,0 +1,145 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 01209670-2c35-4032-a01f-f1b3bc71a67b
+  bundle: introduccion_home
+  default_langcode: es
+  depends:
+    3e162886-e954-4346-9b13-bb1872da0e52: file
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Incentivos para inversores'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<p>Uruguay dispone de varios incentivos que se adaptan a distintos tipos de actividades, tanto industriales como comerciales o de servicios que quieran realizarse en el país. Dentro de los principales regímenes de incentivos disponibles se encuentran los previstos por la Ley de Inversiones, las zonas francas, el régimen de puerto y aeropuerto libre, los contratos de participación público-privada, los parques industriales y la admisión temporaria.</p>\r\n"
+      format: basic_html
+      summary: ''
+  field_d:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 2562dbd2-19d6-45f8-95c4-9b5cf9791a71
+          bundle: incentivos
+          default_langcode: es
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1666972467
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_text:
+            -
+              value: 'Los inversores extranjeros y locales son tratados en igualdad de condiciones. No se requiere autorización o registro previo y no existen restricciones para la transferencia de capital o utilidades. Los proyectos de inversión pueden ser elegible para exoneraciones del IRAE hasta un 100% del monto invertido, y otros impuestos.'
+          field_title:
+            -
+              value: 'Marco Legal Atractivo'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: d9d13f70-6caa-4717-8c06-03c832bd0970
+          bundle: incentivos
+          default_langcode: es
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1666972481
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_text:
+            -
+              value: 'Permite a las empresas importar materias primas e insumos sin pagar impuestos a la importación, siempre y cuando sean usados para producir bienes a ser exportados dentro de un período de hasta 18 meses.'
+          field_title:
+            -
+              value: 'Admisión Temporaria'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 4066463a-5e6b-433e-8f9e-a553a6a5e9f4
+          bundle: incentivos
+          default_langcode: es
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1666972489
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_text:
+            -
+              value: 'Los usuarios de Zonas Francas están exentos de todos los impuestos creados o a crearse en el futuro (excepto aportes a la Seguridad Social).'
+          field_title:
+            -
+              value: 'Zonas Francas'
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: a6e789d9-bb2d-4057-9d74-dc81b9de8de6
+          bundle: incentivos
+          default_langcode: es
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1666972498
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_text:
+            -
+              value: 'Tránsito de mercaderías sin exigencia de autorizaciones ni trámites formales. Dentro de los puertos los bienes están exonerados de toda tasa o tributo a la importación.'
+          field_title:
+            -
+              value: 'Puertos y Aeropuertos libres'
+  field_image:
+    -
+      entity: 3e162886-e954-4346-9b13-bb1872da0e52
+      alt: inversor
+      title: ''
+      width: 516
+      height: 578
+  field_title:
+    -
+      value: 'Incentivos para inversores'

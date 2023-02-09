@@ -1,0 +1,50 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5e96cd06-fb1c-417d-aa9a-9dcfb663d004
+  bundle: municipios
+  default_langcode: es
+  depends:
+    dfb66d8b-e715-4fb1-9097-61b9e46245d7: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Municipio 9'
+  created:
+    -
+      value: 1666967991
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: es
+      pathauto: 0
+  field_enlace_municipios:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  field_image:
+    -
+      entity: dfb66d8b-e715-4fb1-9097-61b9e46245d7
+      alt: '4'
+      title: ''
+      width: 85
+      height: 72

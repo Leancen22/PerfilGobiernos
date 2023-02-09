@@ -1,0 +1,10 @@
+name: 'Menú Header Genérico'
+type: module
+description: 'Menú genérico para utilizar en el Header'
+core_version_requirement: '^8.9 || ^9'
+package: 'name'
+default_content:
+  menu_link_content:
+    - aa334cf7-b564-4c67-9ffb-344d664f2287
+    - d1b731fe-681c-42dd-8e7e-9f55b0b48be7
+    - 348bb81d-3c9c-4415-9156-1c12c08758b4

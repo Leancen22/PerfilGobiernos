@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: dfb66d8b-e715-4fb1-9097-61b9e46245d7
+  default_langcode: es
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 5_2.png
+  uri:
+    -
+      value: 'public://2022-10/5_2.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 2873
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1666968002

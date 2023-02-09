@@ -1,0 +1,12 @@
+langcode: es
+uuid: 1eaf5750-ea38-4dce-b5ff-6759c18f7379
+name: Maldonado
+mail: adminportal@maldonado.gub.uy
+slogan: ''
+page:
+  403: ''
+  404: /search404
+  front: /node/11
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: es

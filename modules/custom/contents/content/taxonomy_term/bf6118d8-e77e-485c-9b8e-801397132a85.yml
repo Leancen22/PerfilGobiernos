@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: bf6118d8-e77e-485c-9b8e-801397132a85
+  bundle: localidades
+  default_langcode: es
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: 'Las Piedras'
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: es
+      pathauto: 0

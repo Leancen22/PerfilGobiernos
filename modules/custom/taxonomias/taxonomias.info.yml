@@ -1,0 +1,12 @@
+name: 'Taxonomías'
+type: module
+description: 'Vocabularios y taxonomías'
+core_version_requirement: '^8.9 || ^9'
+package: 'name'
+
+default_content:
+  taxonomy_term:
+    - 78316b74-b30a-43b4-865a-8c3c6724c804
+    - 4a14e7ae-b1e1-412c-8f47-05e00bd3df54
+    - 3e253da9-cc3c-4db2-aaff-639744a7e31a
+        

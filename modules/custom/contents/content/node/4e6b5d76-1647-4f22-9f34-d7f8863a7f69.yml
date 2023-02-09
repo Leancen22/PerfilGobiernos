@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4e6b5d76-1647-4f22-9f34-d7f8863a7f69
+  bundle: '404'
+  default_langcode: es
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '404'
+  created:
+    -
+      value: 1665688216
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /search404
+      langcode: es
+      pathauto: 0
+  body:
+    -
+      value: "<p>Error</p>\r\n"
+      format: basic_html
+      summary: ''

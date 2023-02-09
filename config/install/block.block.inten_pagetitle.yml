@@ -1,0 +1,24 @@
+langcode: es
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - inten
+id: inten_pagetitle
+theme: inten
+region: content
+weight: -9
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Título de la página'
+  label_display: '0'
+  provider: core
+visibility:
+  request_path:
+    id: request_path
+    negate: true
+    context_mapping: {  }
+    pages: "<front>\r\n/buscar\r\n/buscar-tramites"

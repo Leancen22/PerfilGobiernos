@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6e2b36ae-18b5-4f16-88ea-0c913dcbd898
+  bundle: document
+  default_langcode: es
+  depends:
+    ae458ceb-ee0b-481a-b2dd-e46d11afd90b: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: false
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: test
+  created:
+    -
+      value: 1665689507
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /documentos/test
+      langcode: es
+      pathauto: 1
+  field_attachments:
+    -
+      entity: ae458ceb-ee0b-481a-b2dd-e46d11afd90b
+      display: true
+      description: ''
+  field_yoast_seo:
+    -
+      status: '0'
+      focus_keyword: ''
+      title: ''
+      description: ''

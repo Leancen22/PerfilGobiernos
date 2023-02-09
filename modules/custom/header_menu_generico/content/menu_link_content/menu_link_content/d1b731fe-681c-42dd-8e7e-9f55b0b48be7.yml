@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: d1b731fe-681c-42dd-8e7e-9f55b0b48be7
+  bundle: menu_link_content
+  default_langcode: es
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Enlace 2'
+  menu_name:
+    -
+      value: menu-header-generico
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 0
+  expanded:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true

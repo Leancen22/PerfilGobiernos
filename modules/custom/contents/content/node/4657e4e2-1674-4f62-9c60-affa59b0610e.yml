@@ -1,0 +1,165 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4657e4e2-1674-4f62-9c60-affa59b0610e
+  bundle: layout_page
+  default_langcode: es
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Home
+  created:
+    -
+      value: 1665699636
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /home
+      langcode: es
+      pathauto: 0
+  layout_builder__layout:
+    -
+      section:
+        layout_id: layout_onecol
+        layout_settings:
+          label: ''
+          context_mapping: {  }
+        components:
+          cc7e4b7c-8ee3-4537-b4f2-b127b26f270c:
+            uuid: cc7e4b7c-8ee3-4537-b4f2-b127b26f270c
+            region: content
+            configuration:
+              id: 'views_block:hero_slider-slider_home'
+              label: ''
+              label_display: 0
+              provider: views
+              views_label: ''
+              items_per_page: none
+              exposed_filter_values: null
+              context_mapping: {  }
+            weight: 0
+            additional: {  }
+          e1c45a71-5f9a-4774-8d6e-7f6e8488c307:
+            uuid: e1c45a71-5f9a-4774-8d6e-7f6e8488c307
+            region: content
+            configuration:
+              id: 'views_block:accesos_rapidos_home-accesos'
+              label: ''
+              label_display: 0
+              provider: views
+              views_label: ''
+              items_per_page: none
+              exposed_filter_values: null
+              context_mapping: {  }
+            weight: 1
+            additional: {  }
+          4f9a1b5c-5c4d-4151-8f50-f6cd22034f47:
+            uuid: 4f9a1b5c-5c4d-4151-8f50-f6cd22034f47
+            region: content
+            configuration:
+              id: 'block_content:01209670-2c35-4032-a01f-f1b3bc71a67b'
+              label: 'Incentivos para inversores'
+              label_display: 0
+              provider: block_content
+              status: true
+              info: ''
+              view_mode: full
+              context_mapping: {  }
+            weight: 2
+            additional: {  }
+        third_party_settings: {  }
+    -
+      section:
+        layout_id: layout_onecol
+        layout_settings:
+          label: ''
+          context_mapping: {  }
+        components:
+          74b3ae1c-e186-4b10-b9a4-ffc90a893423:
+            uuid: 74b3ae1c-e186-4b10-b9a4-ffc90a893423
+            region: content
+            configuration:
+              id: 'views_block:agenda-agendas_home'
+              label: ''
+              label_display: 0
+              provider: views
+              views_label: ''
+              items_per_page: none
+              exposed_filter_values: null
+              context_mapping: {  }
+            weight: 0
+            additional: {  }
+          f1606fd4-ec34-4f2c-b48e-a8c9670dfed3:
+            uuid: f1606fd4-ec34-4f2c-b48e-a8c9670dfed3
+            region: content
+            configuration:
+              id: 'views_block:noticias-noticias'
+              label: ''
+              label_display: 0
+              provider: views
+              views_label: ''
+              items_per_page: none
+              exposed_filter_values: null
+              context_mapping: {  }
+            weight: 1
+            additional: {  }
+          82ed221b-2e27-40dc-b47d-1e2a9234f3f6:
+            uuid: 82ed221b-2e27-40dc-b47d-1e2a9234f3f6
+            region: content
+            configuration:
+              id: webform_block
+              label: Webform
+              label_display: 0
+              provider: webform
+              webform_id: newsletter
+              default_data: ''
+              redirect: 0
+              context_mapping: {  }
+            weight: 2
+            additional: {  }
+          c74756f4-9f7c-4f33-a968-af851f6f14bc:
+            uuid: c74756f4-9f7c-4f33-a968-af851f6f14bc
+            region: content
+            configuration:
+              id: 'views_block:municipios-municipios'
+              label: ''
+              label_display: 0
+              provider: views
+              views_label: ''
+              items_per_page: none
+              exposed_filter_values: null
+              context_mapping: {  }
+            weight: 3
+            additional: {  }
+          8b1a875b-d5bf-44b6-b8bc-27f5181fd76a:
+            uuid: 8b1a875b-d5bf-44b6-b8bc-27f5181fd76a
+            region: content
+            configuration:
+              id: webform_block
+              label: Webform
+              label_display: 0
+              provider: webform
+              webform_id: formulario_de_contacto
+              default_data: ''
+              redirect: 0
+              context_mapping: {  }
+            weight: 4
+            additional: {  }
+        third_party_settings: {  }

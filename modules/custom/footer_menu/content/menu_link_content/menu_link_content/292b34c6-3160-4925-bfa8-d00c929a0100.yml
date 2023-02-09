@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 292b34c6-3160-4925-bfa8-d00c929a0100
+  bundle: menu_link_content
+  default_langcode: es
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: Beneficios
+  menu_name:
+    -
+      value: footer-col-1
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 0
+  expanded:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true

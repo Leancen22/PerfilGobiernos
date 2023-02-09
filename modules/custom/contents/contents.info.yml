@@ -1,0 +1,23 @@
+name: Contents
+description: Contents of site
+type: module
+core_version_requirement: ^9
+package: Contents
+
+defaul_content:
+  node:
+    - 35b877f1-f30a-4adb-b101-7ad60519d022
+    - 4e6b5d76-1647-4f22-9f34-d7f8863a7f69
+    - 5e96cd06-fb1c-417d-aa9a-9dcfb663d004
+    - 6e2b36ae-18b5-4f16-88ea-0c913dcbd898
+    - 76e86cf8-b90d-4e69-a5bf-568ddff3ebbc
+    - 100d6f6f-39cd-4902-ad65-614a5c5ffc8b
+    - 722dc566-ee38-4bf1-a622-6835b8db1fbf
+    - 4657e4e2-1674-4f62-9c60-affa59b0610e
+    - a65cd715-89ce-4c28-a66d-961801b4e81b
+  block_content:
+    - 0c4e6f63-c284-479a-b1cc-5bc95d674b04
+    - 08af1e1b-9200-4cf3-8f1d-73326fba710c
+    - 9fadd3e1-a869-4130-b6cf-74a536d5352e
+    - 01209670-2c35-4032-a01f-f1b3bc71a67b
+    - 9085172d-c2e5-412a-ab2a-ec4ef155d5fa 

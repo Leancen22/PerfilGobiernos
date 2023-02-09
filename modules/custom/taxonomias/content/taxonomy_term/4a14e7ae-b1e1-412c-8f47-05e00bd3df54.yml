@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 4a14e7ae-b1e1-412c-8f47-05e00bd3df54
+  bundle: vocabulario_1
+  default_langcode: es
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: 'Termino 2'
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: es
+      pathauto: 0

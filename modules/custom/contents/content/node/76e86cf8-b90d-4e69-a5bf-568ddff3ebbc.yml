@@ -1,0 +1,50 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 76e86cf8-b90d-4e69-a5bf-568ddff3ebbc
+  bundle: municipios
+  default_langcode: es
+  depends:
+    e5c728f4-c36f-4ee8-af7d-2393360ab5fa: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Municipio 7'
+  created:
+    -
+      value: 1666967947
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: es
+      pathauto: 0
+  field_enlace_municipios:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  field_image:
+    -
+      entity: e5c728f4-c36f-4ee8-af7d-2393360ab5fa
+      alt: '2'
+      title: ''
+      width: 85
+      height: 72

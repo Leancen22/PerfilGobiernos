@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: ae458ceb-ee0b-481a-b2dd-e46d11afd90b
+  default_langcode: es
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: test.pdf
+  uri:
+    -
+      value: 'public://2022-10/test.pdf'
+  filemime:
+    -
+      value: application/pdf
+  filesize:
+    -
+      value: 551088
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1665689535

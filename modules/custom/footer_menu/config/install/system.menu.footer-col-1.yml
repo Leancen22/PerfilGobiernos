@@ -1,0 +1,13 @@
+uuid: 7c65dd80-6c4e-4590-bf62-165b3d6978fc
+langcode: es
+status: true
+dependencies:
+  module:
+    - menu_trail_by_path
+third_party_settings:
+  menu_trail_by_path:
+    trail_source: ''
+id: footer-col-1
+label: 'Primera sección'
+description: ''
+locked: false

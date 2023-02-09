@@ -1,0 +1,17 @@
+name: 'Menú Footer'
+type: module
+description: 'Menúes para el Footer'
+core_version_requirement: '^8.9 || ^9'
+package: 'name'
+default_content:
+  menu_link_content:
+    # Primera sección
+    - d70df71c-6413-4e2e-b6c4-e9c1078c6ccb
+    - 292b34c6-3160-4925-bfa8-d00c929a0100
+    - b1d039a1-af6a-44d4-a9f0-6c0a67ae44cd
+    - 570531c0-ebc1-4905-969d-bc34823cace7
+    # Segunda sección
+    - 99ef580f-2c8b-451b-8829-2253173bbd58
+    - c88f6ee8-259a-4dad-be57-8665e327a3dd
+    - 2447ee8e-6616-4cf4-8dd1-d7308d42c580
+    - 7a00a511-6778-47a3-aefd-9c4205610b13

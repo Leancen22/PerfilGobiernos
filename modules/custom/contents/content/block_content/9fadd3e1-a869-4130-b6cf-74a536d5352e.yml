@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 9fadd3e1-a869-4130-b6cf-74a536d5352e
+  bundle: bloque_enlace_home
+  default_langcode: es
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Test 4'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  field_title:
+    -
+      value: 'Test 4'
